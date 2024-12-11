@@ -1,4 +1,7 @@
+ALL RIGHTS RESERVED.
+Licensed under A Private Licence. https://github.com/freedom-foundation/
 
+LIVING_WILL_SOVEREIGN/blob/main/LICENSE
 Note: The filesystem times are in loose chronological order and do not coincide exactly with document creation or release times. It would be nice to correct the FS dates.
 
 TO-DO: correct the FS dates - begin to copy all of the files to a mandated file using development mode as described in [filename_conventions](https://github.com/freedom-foundation/LIVING_WILL_SOVEREIGN/blob/d36ccea3b88d17a48997a4fd5030ac06d16c87d0/filename_conventions.md).
