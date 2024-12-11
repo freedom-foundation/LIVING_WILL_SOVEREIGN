@@ -49,7 +49,7 @@ Release files may be copied from the type sort target with the order reversed so
 
 Note: When I shall select a title bear in mind the final word shall be parsed by a script to become the DOS compat. filename. 
 
-All of the file information can then be exported into a second info file such as SOVEREIG.FIC the RELEASE ARCHIVE .FIC file would be the information file stored on Peeranoia_framework storage network it would be a PEERANOIA FIC file.
+All of the file information can then be exported into a second info file such as SOVEREIG.FIC the RELEASE ARCHIVE .FIC file would be the information file stored on [Peeranoia_Framework](https://github.com/freedom-foundation/Peeranoia_Framework) storage network it would be a PEERANOIA FIC file.
 Note: By the time of an RELEASE ARCHIVE the wordcount shall have been checked manuly and counted by hand from the RELEASE PRINT.
 ### benefits
 Redundant copies of files by using my naming conventions of multiple sort orders have benifits. The benifits of redundant copies of files are as follows. First it may avoid corruption. The efficacy of the benifits varies according to the physical medium used for storage. Magnetic disk platters and solid state storage differ. However, when using redundant copies, the physical location of the data stored on disk for each filename has different locations . If a sector goes bad at a location the document is stored it could not corrupt another having a different filename because another filename is data at a different location on disk. When a script is used to name files if the physical storage medium uses sequential writing it is recommended to write a hugefile in order to cause the locations of the data on disk to separate. After the files are written the hugefile may be deleted.
