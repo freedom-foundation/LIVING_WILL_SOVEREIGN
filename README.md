@@ -1,6 +1,6 @@
 # LIVING_WILL_SOVEREIGN
 ALL RIGHTS RESERVED.
-Licensed under A Private Licence. https://github.com/freedom-foundationLIVING_WILL_SOVEREIGN/blob/main/LICENSE
+Licensed under A Private Licence. https://github.com/freedom-foundation/LIVING_WILL_SOVEREIGN/blob/main/LICENSE
 
 Note: The filesystem times are in loose chronological order and do not coincide exactly with document creation or release times. It would be nice to correct the FS dates.
 
