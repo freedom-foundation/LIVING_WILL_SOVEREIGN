@@ -8,7 +8,7 @@ TO-DO: correct the FS dates - begin to copy all of the files to a mandated file 
 
 Roadmap: I have plans for biometrics, a fingerprint box near the signature.
 
-Log: I began a very complex process of translating the document. I found all automated translation software to be lacking and began to think myself in more languages the only finished translation in Greek was lost due to data loss. Some of my translation progress I saved as Translator's notes. Translation has been put on hold. 
+Log: I began a very complex process of translating the document. I found all automated translation software to be inadequit and began to think myself in more languages the only finished translation in Greek was lost due to data loss. Some of my translation progress I saved as Translator's notes. Translation has been put on hold. 
 
 Commentary - I wrote a commantary to explain how My English is used so there is no misunderstanding. The entire directive is contained in the commentary and every line is explained.
 
