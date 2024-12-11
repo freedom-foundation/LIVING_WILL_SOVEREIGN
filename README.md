@@ -12,7 +12,7 @@ Log: I began a very complex process of translating the document. I found all aut
 
 Commentary - I wrote a commantary to explain how My English is used so there is no misunderstanding. The entire directive is contained in the commentary and every line is explained.
 
-Google Edition - is the terms I used for the document having been edited in Google Docs although I have ceased to use Google because of espionage and privacy issues. 
+Google Edition - is the terms I used for the document having been edited in Google Docs although I have ceased to use Google because of [Google Chrome for android criminal espionage bug](https://github.com/users/freedom-foundation/projects/2) and privacy issues. 
 
 Digital Edition - abbreviate DE The purpose of this is to have a electronic stored texts edition, an application made for easy use although I have some qualms about calling electronic documents "digital" as the data is neither a number nor counted on fingers. 
 
