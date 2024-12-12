@@ -1,15 +1,22 @@
 # LIVING_WILL_SOVEREIGN
+
+## Copyright & license
 ALL RIGHTS RESERVED.
 Licensed under A Private Licence. https://github.com/freedom-foundation/LIVING_WILL_SOVEREIGN/blob/main/LICENSE
+
+## Description 
+I, JASON MARK CHRISTOS, HAVING SOUND MIND GIVE THIS STATEMENT OF DIRECTIVE TO FOLLOW IF I BECOME OBSTRUCTED IN DECISIONS REGARDING MY HEALTH CARE THESE INSTRUCTIONS REFLECT MY FIRM AND SETTLED COMMITMENT TO DECLINE TREATMENT UNDER THE CIRCUMSTANCES INDICATED WITHIN. FOR THE PURPOSES OF THIS DOCUMENT: "LIFE PROLONGING PROCEDURE" MEANS ANYTHING THAT 
+
+## Roadmap
+I have plans for biometrics, a fingerprint box near the signature.
 
 Note: The filesystem times are in loose chronological order and do not coincide exactly with document creation or release times. It would be nice to correct the FS dates.
 
 TO-DO: correct the FS dates - begin to copy all of the files to a mandated file using development mode as described in [filename_conventions](https://github.com/freedom-foundation/LIVING_WILL_SOVEREIGN/blob/main/filename_conventions.md).
 
-Roadmap: I have plans for biometrics, a fingerprint box near the signature.
+backlog: I began a very complex process of translating the document. I found all automated translation software to be inadequit and began to think myself in more languages the only finished translation in Greek was lost due to data loss. Some of my translation progress I saved as Translator's notes. Translation has been put on hold. 
 
-Log: I began a very complex process of translating the document. I found all automated translation software to be inadequit and began to think myself in more languages the only finished translation in Greek was lost due to data loss. Some of my translation progress I saved as Translator's notes. Translation has been put on hold. 
-
+## Contents
 Commentary - I wrote a commantary to explain how My English is used so there is no misunderstanding. The entire directive is contained in the commentary and every line is explained.
 
 Google Edition - is the terms I used for the document having been edited in Google Docs although I have ceased to use Google because of [Google Chrome for android criminal espionage bug](https://github.com/users/freedom-foundation/projects/2) and privacy issues. 
