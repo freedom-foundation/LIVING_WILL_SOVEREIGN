@@ -14,7 +14,7 @@ Note: The filesystem times are in loose chronological order and do not coincide 
 
 TO-DO: correct the FS dates - begin to copy all of the files to a mandated file using development mode as described in [filename_conventions](https://github.com/freedom-foundation/LIVING_WILL_SOVEREIGN/blob/main/filename_conventions.md).
 
-backlog: I began a very complex process of translating the document. I found all automated translation software to be inadequit and began to think myself in more languages the only finished translation in Greek was lost due to data loss. Some of my translation progress I saved as Translator's notes. Translation has been put on hold. 
+backlog: I began a very complex process of translating the document. I found all automated translation software to be inadequate and began to think myself in more languages the only finished translation in Greek was lost due to data loss. Some of my translation progress I saved as Translator's notes. Translation has been put on hold. 
 
 ## Contents
 Commentary - I wrote a commantary to explain how My English is used so there is no misunderstanding. The entire directive is contained in the commentary and every line is explained.
