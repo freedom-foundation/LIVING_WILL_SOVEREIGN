@@ -2,6 +2,7 @@
 
 ## Copyright & license
 ALL RIGHTS RESERVED.
+© 2017 - 2024 Jason M. Christos
 Licensed under A Private Licence. https://github.com/freedom-foundation/LIVING_WILL_SOVEREIGN/blob/main/LICENSE
 
 ## Description 
